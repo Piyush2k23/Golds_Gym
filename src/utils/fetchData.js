@@ -6,15 +6,6 @@ export const exerciseOptions = {
   },
 };
 
-// export const exerciseOptions = {
-//   method: 'GET',
-//   url: 'https://exercisedb.p.rapidapi.com/exercises/bodyPartList',
-//   headers: {
-//     'X-RapidAPI-Key': 'f92f8ef92emsh2b8a6211180fb72p11fe85jsnc6599ed6bba7',
-//     'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com',
-//   },
-// };
-
 export const youtubeOptions = {
   method: 'GET',
   headers: {
